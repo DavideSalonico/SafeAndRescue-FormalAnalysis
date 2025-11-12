@@ -1,7 +1,7 @@
 # Formal Analysis of Search-and-Rescue Scenarios
 Formal Methods for Concurrent and Real-Time Systems at Politecnico di Milano
 
-![]("Scenarios' representations/4_DifferentDrones.png")
+<img src="Scenarios' representations/4_DifferentDrones.png" alt="Example of a safe and rescue scenario simulated during the analysis" width=400>
 
 ## Introduction
 Rescue services increasingly exploit autonomous systems as a support tool during mass emergencies. For example, fleets of drones can be deployed to monitor an enclosed area and interact with human subjects to foster cooperation and ease the evacuation process.
